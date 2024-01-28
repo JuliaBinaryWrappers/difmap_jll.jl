@@ -1,90 +1,99 @@
 [[difmap]]
+arch = "aarch64"
+git-tree-sha1 = "07f26a99360d0d73822cd1d79a64925eca7f0a76"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[difmap.download]]
+    sha256 = "2e40122ef95f4375baacf1d2c1c9995ff1b51a22de3c6fdc25d3256228d950fc"
+    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[difmap]]
 arch = "i686"
-git-tree-sha1 = "4578db2c73481b058f9bbc579984b5bd4243003b"
+git-tree-sha1 = "2cb94e3deae78a2c6ff92e210782b8c84c61ada3"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[difmap.download]]
-    sha256 = "7e419e902bd34599586af352d8f363414d4a4d023a17f3b88b933a85f774b633"
-    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.11+0/difmap.v2.5.11.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "1aa2d94762abf21ebaf8031b1fe8c9d8705291b2e19cde1fe307be2642dd2d91"
+    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.i686-linux-gnu-libgfortran3.tar.gz"
 [[difmap]]
 arch = "i686"
-git-tree-sha1 = "24385571811e2f7661c2b5c1d5b18c6948feac19"
+git-tree-sha1 = "c5d12883fa02363f3f992a27013205204955519e"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[difmap.download]]
-    sha256 = "e16bc73e270f2def0d2b9b07af195ad2508bc4d9beb2725c1a0cc4d348ff38da"
-    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.11+0/difmap.v2.5.11.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "fc93ce0db7ba82df799266607c2fd7ded3a437041f39850f13203c74cdbc4a54"
+    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.i686-linux-gnu-libgfortran4.tar.gz"
 [[difmap]]
 arch = "i686"
-git-tree-sha1 = "21f6af05c24dcd7d397610d89397f6d191481fd4"
+git-tree-sha1 = "5f969ea7752350e069bba75d7d6d415737915308"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[difmap.download]]
-    sha256 = "2b3db94332c7d674e07441b14158dca433265623b7b76362a0b4e35f937bad76"
-    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.11+0/difmap.v2.5.11.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "c2cd480edabdca93dd6657a70c9c4e5cb9f6ca6d1e561c79f18e3ae9d6836e09"
+    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.i686-linux-gnu-libgfortran5.tar.gz"
 [[difmap]]
 arch = "x86_64"
-git-tree-sha1 = "b13b5a34ad3f7789a5dc93b6cf27d62a720b8c03"
+git-tree-sha1 = "424693bc847d318c5f7cb6aca66a162b9cc2de94"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[difmap.download]]
-    sha256 = "43650c4570b35114b2eccdc299fc962beb34c6b1b31b23c26bf6bf645f31e4c2"
-    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.11+0/difmap.v2.5.11.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "6ffaec51980b4a18c25feab72f556858c30dd6f09958d8cf1edb67097ec3ad4e"
+    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[difmap]]
 arch = "x86_64"
-git-tree-sha1 = "40e6f0cac970565eb4a9dc765931ed8eb8623072"
+git-tree-sha1 = "86f09e6a3918facf3d9b9dce280848ccd6119471"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[difmap.download]]
-    sha256 = "f6c6071411679e6c9f444a23db1f4ec6cf7cd26696d2fd158008f1f1667d52ec"
-    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.11+0/difmap.v2.5.11.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "b2cc6ff1a34ef9caf9700460852537b790036cb4d4e8bffedf2d0bad7aea4cde"
+    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[difmap]]
 arch = "x86_64"
-git-tree-sha1 = "b31ced1086ef1793831a8dc02d37977b25917eee"
+git-tree-sha1 = "795b1972cfd3b8223c74f4306a8738f5b8d0060e"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[difmap.download]]
-    sha256 = "3bae14b7303fce8346b05e4a9cbef3abfeadf274c390ebd96150ca298764b368"
-    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.11+0/difmap.v2.5.11.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "f8aa3f17fb83cdd323778af38ced4c076dd8ef488cef8b5472dc541d0bec9be0"
+    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[difmap]]
 arch = "x86_64"
-git-tree-sha1 = "15613e14adf779c036868e2ed0007ee1fe2ca15e"
+git-tree-sha1 = "f16764f6e4c8216879302fa0808ac88ed5f097f8"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[difmap.download]]
-    sha256 = "4823a357d057ff428990f5e27cbcfe40c496a59efb28e16705ac76b366dd524d"
-    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.11+0/difmap.v2.5.11.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "003f9b2cdd23b9c70f614dac7ccc52964dde7da7dfd7b705f325dbc3479d7899"
+    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.x86_64-linux-musl-libgfortran3.tar.gz"
 [[difmap]]
 arch = "x86_64"
-git-tree-sha1 = "8b6cc0d879a475a97cab36f03c9259fdd8e5fd52"
+git-tree-sha1 = "6a6c509bfe315ba328c251e3e026bb07f41846df"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[difmap.download]]
-    sha256 = "b6974355abba8ed4afc41442e5ad298ff8104169ce92e1b7e8d0a88614d7036b"
-    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.11+0/difmap.v2.5.11.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "8a81c9046dd7de68fc0d6c232afc78eb96f36bd8e28cd6855f28959d44e4f3f9"
+    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.x86_64-linux-musl-libgfortran4.tar.gz"
 [[difmap]]
 arch = "x86_64"
-git-tree-sha1 = "b123257c218d52f2ee992548ebc3f2f2d4bc8302"
+git-tree-sha1 = "bdcef82df0a5647995bfe65a3e64563181a7812a"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[difmap.download]]
-    sha256 = "2b6cd59a1a2541e06392bcff535c99896b3456e08438b0043c6fd448f24cff99"
-    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.11+0/difmap.v2.5.11.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "6af87af4b62293f51a776a798e78a22a66a927d2a1f126d507bbe7f42a841015"
+    url = "https://github.com/JuliaBinaryWrappers/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.x86_64-linux-musl-libgfortran5.tar.gz"

@@ -1,10 +1,9 @@
 name = "difmap_jll"
 uuid = "43cd2700-e54a-5645-adf8-b9b288a87fe6"
-version = "2.5.11+0"
+version = "2.5.17+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 PGPLOT_jll = "b11e30b1-63be-5002-9df0-88ee0fe906ff"
 CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 Xorg_libX11_jll = "4f6342f7-b3d2-589e-9d20-edeb45f2b2bc"
@@ -14,4 +13,6 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.0"
+julia = "1.6"
+Libdl = "1"
+Artifacts = "1"
